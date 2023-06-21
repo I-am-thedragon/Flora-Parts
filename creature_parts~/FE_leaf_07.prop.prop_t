@@ -1,0 +1,14 @@
+key parent CreatureEditorTemplates!CreatureDetailTemplate
+float modelMaxScale 5
+key modelMeshLOD0 editor_rigblock~!FE_leaf_07.rw4
+float modelMinScale 0.1
+key skinpaintDiffuseTexture skinPaint_texture~!FE_leaf_07__diffuse.rw4
+key skinpaintSpecBumpTexture skinPaint_texture~!FE_leaf_07__specBump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!FE_leaf_07__tintMask.rw4
+int32 modelCapabilityDetail 1
+int32 modelCapabilitySocial 1
+texts blockName
+	"07"
+end
+float modelScale 1
+int32 modelPrice 25
