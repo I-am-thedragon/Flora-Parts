@@ -1,0 +1,40 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+	1
+	1
+	1
+	2
+	2
+	2
+end
+keys palettePagePartItems
+	creature_parts~!fe_canopy_01
+	creature_parts~!fe_canopy_02
+	creature_parts~!fe_canopy_03
+	creature_parts~!fe_canopy_04
+	creature_parts~!fe_canopy_05
+	creature_parts~!fe_canopy_06
+	creature_parts~!fe_canopy_07
+	creature_parts~!fe_canopy_09
+	creature_parts~!fe_canopy_10
+	creature_parts~!fe_canopy_11
+	creature_parts~!fe_canopy_12
+end
+key palettePagePartParentPage fe_page_leaves1

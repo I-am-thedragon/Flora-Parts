@@ -1,0 +1,5 @@
+keys palettePalettePages
+	creature_editor_palette_pages~!fe_page_details
+	creature_editor_palette_pages~!fe_page_leaves
+	creature_editor_palette_pages~!fe_page_leaves1
+end

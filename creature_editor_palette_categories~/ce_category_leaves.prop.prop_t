@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePaletteCategoryParts.prop
+keys paletteCategoryIconList
+	editors_creature~!button-detail-norm.png
+	editors_creature~!button-detail-off.png
+	editors_creature~!button-detail-hl.png
+	editors_creature~!button-detail-act.png
+	editors_creature~!button-detail-on-norm.png
+	editors_creature~!button-detail-off.png
+	editors_creature~!button-detail-on-hl.png
+	editors_creature~!button-detail-on-act.png
+	editors_creature~!button-detail-norm.png
+end
+texts paletteCategoryName
+	(ce!0xa3908858) "Leaves"
+end
+uint32 paletteCategorySequenceNumber 701
